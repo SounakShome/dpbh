@@ -49,16 +49,10 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div> */}
-      <h1>My Extension</h1>
+      <h1>The Eye</h1>
       <div className="card">
         <button type='button' onClick={() => onclick()}>Capture HTML Classes</button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
       <div>
         <h2>Captured Classes:</h2>
         <pre>{JSON.stringify(capturedClasses, null, 2)}</pre>
