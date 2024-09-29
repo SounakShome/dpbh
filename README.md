@@ -20,16 +20,16 @@ A browser extension to detect and highlight dark patterns in e-commerce websites
 ## Installation
 **Chrome**
 
-1. Clone this repository or download the ZIP file.
-2. Open Chrome and navigate to [chrome://extensions/](chrome://extensions/).
-3. Enable "Developer mode" in the top right corner.
-4. Click "Load unpacked" and select the extension directory.
+1. Clone this repository or download the ZIP file
+2. Open Chrome and go to [chrome://extensions/](chrome://extensions/)
+3. Enable "Developer mode" in the top right corner
+4. Click "Load unpacked" and select the extension directory
 
 **Firefox**
 
-1. Clone this repository or download the ZIP file.
-2. Open Firefox and navigate to [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox).
-3. Click "Load Temporary Add-on" and select the [manifest.json](manifest.json) file in the extension directory.
+1. Clone this repository or download the ZIP file
+2. Open Firefox and go to [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+3. Click "Load Temporary Add-on" and select the [manifest.json](manifest.json) file in the extension directory
 
 ## Usage
 
